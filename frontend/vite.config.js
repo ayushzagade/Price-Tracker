@@ -11,4 +11,8 @@ export default defineConfig({
             },
         },
     },
+
+    preview: {
+        allowedHosts: ['price-tracker-1-89py.onrender.com']
+    },
 });
